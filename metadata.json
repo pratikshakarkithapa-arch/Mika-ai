@@ -1,0 +1,6 @@
+{
+  "name": "Mika AI",
+  "description": "8-second high-quality 2D anime animation featuring Mika, with real-time sentiment analysis, interactive character motion, and chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
